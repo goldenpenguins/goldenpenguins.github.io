@@ -1,0 +1,24 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.navbar {
+    background-color: black;
+    padding: 1% 0;
+    font-size: 1.2m;
+}
+
+.navbar-brand {
+    min-height: 55px;
+    padding: 0 5px 5px;
+}
+
+.navbar-default .navbar-nav li a {
+    color: #D5D5D5;
+}
+
+.navbar-default .navbar-nav li a:HOVER {
+    color: white;
+}
